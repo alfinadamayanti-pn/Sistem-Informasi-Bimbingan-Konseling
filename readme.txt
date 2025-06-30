@@ -30,19 +30,3 @@ SIBK adalah sistem informasi sederhana berbasis web untuk mendata dan memantau s
 
 ## 🗄️ Struktur Folder
 
-```bash
-sibk/
-├── index.php               # Dashboard utama
-├── koneksi.php             # Koneksi database
-├── data-siswa.php          # Halaman data siswa
-├── tambah-siswa.php        # Form tambah siswa
-├── data-guru.php           # Halaman data guru
-├── tambah-guru.php         # Form tambah guru
-├── data-pelanggaran.php    # Pelanggaran
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── database/
-│   └── sibk.sql            # Backup database MySQL
-└── README.md
